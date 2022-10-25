@@ -1,0 +1,21 @@
+.footer {
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 30px 0;
+
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    background: #918E9B;
+    margin: 0px 20px;
+    border-radius: 5px;
+
+}
